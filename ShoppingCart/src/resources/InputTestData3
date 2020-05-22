@@ -1,0 +1,6 @@
+# Give empty space between two columns
+# All data must have same currency, else it will cause
+# error during execution,like shown below
+Regular $8,500.10
+Premium $6,600.0
+Premium $13,700.30
