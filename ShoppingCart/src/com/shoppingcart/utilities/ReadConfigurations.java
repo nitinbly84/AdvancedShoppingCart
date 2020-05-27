@@ -36,7 +36,7 @@ public class ReadConfigurations {
 
 	/**
 	 * It will read the discount configurations when this class is loaded for the first time.
-	 * Currently it expects theis configuration file in the project path.
+	 * Currently it expects this configuration file in the project path.
 	 * @throws URISyntaxException
 	 */
 	private static void readConfigurations() {
